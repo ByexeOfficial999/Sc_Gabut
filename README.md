@@ -1,4 +1,5 @@
-# Script yang menyimpan banyak alat dalam satu file saja. Ikuti command Instalasi dan cara jalankannya dibawah ini
+# Script Gabut
+_Script yang menyimpan banyak alat dalam satu file saja. Ikuti command Instalasi dan cara jalankannya dibawah ini_
 ```bash
 ***Ini Adalah Command Instalasi Package & Module Yang Dibutuhkan***
 
